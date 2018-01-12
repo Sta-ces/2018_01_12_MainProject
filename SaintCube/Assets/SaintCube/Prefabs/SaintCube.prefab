@@ -336,3 +336,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_objectToTurn: {fileID: 1319924252112044}
+  m_speedRotation: 10
