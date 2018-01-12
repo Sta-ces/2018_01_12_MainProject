@@ -78,7 +78,6 @@ public class BasicVertexColoring  : MonoBehaviour
                 colors[i] = Color.Lerp(m_color1, m_color2, vertices[i].y);
             }
             m_mesh.colors = colors;
-            Debug.Log("test");
         }
         else
         {
